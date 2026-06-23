@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./client/public/jackpot/1.png" alt="Banner" width="100%" />
+  <img src="./client/public/virtualpangea/98.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -16,42 +16,27 @@
 
 # 🚀 OverView
 
-This is an immersive decentralized metaverse and blockchain gaming ecosystem built with modern Web3 technologies, a **Poker@ESports** that integrates staking, casino-style gaming, sports betting, and education into a single blockchain-powered ecosystem.
-
-The platform combines multiplayer gameplay, NFT ownership, blockchain integration, AI systems, and real-time interactions to create a scalable next-generation gaming experience.
-
-### Core Features
->✅ **Staking:** Lock PA tokens (and other supported assets) to earn rewards while funding the platform's gaming economy.        
->✅ **Gaming:** Casino-style games like roulette, slots, and prize wheels keep players engaged with quick, excitinh gameplay     
->✅ **Sports Betting:** Covers live and upcoming events, offering competitive odds and multiple bet types.                       
->✅ **Academy:** An interative learning hub teaching Crypto basics, platform mechanics, and risk management to onboard newcomers.
-
-The goal is to create an **all-in-one hub** where players can **play, earn, and learn** without hopping between multiple platforms.
+We are building the first decentralized AI operating system (deAIOS), an infinitely scalable infrastructure composed of an L1 modular blockchain, verifiable AI, generative agents, and a unified service marketplace.
+The goal is to create an all-in-one hub where users can play, earn, and learn without switching between multiple platforms.
 
 ---
 
+# ✨ Features
 
-## Demo Version
-The demo highlights:
->✅ **Staking Dashboard** – Simulated staking with reward tracking.               
->✅ **Mini Games Preview** – Early builds of roulette, slots, and spin-the-wheel. <br>
->✅ **Sports Betting UI** – Mock-up with odds feeds and betting slip preview.     
->✅ **Academy Hub** – Interactive tutorials and gamified quizzes.                 
+- 🌌 Open World Metaverse
+- 🎮 Multiplayer Gameplay
+- 🔗 Solana Wallet Integration
+- 🪙 NFT Asset Ownership
+- 🛒 NFT Marketplace
+- ⚡ Real-Time Multiplayer Sync
+- 💬 Live Chat & Social Features
+- 🏆 Global Leaderboards
+- 📊 Player Statistics
+- 🤖 AI-Powered Systems
+- 🎨 Modern Responsive UI
+- ☁️ Cloud-Ready Infrastructure
+- 🐳 Docker Deployment Support
 
-**Note:** This demo uses **testnet contracts** and mock data for demonstration. It is **not connected to mainnet or real funds**.
-
----
-
-### Online Casino Startup
-![Staking Dashboard](./client/public/jackpot/4.png)  
-*Lock Game tokens and monitor rewards in real-time.*
-
-### 7 Proven Ways
-![Game Lobby](./client/public/jackpot/5.png)  
-*Casino-style game previews including roulette, slots, and prize wheel.*
-
-### Must-Have Features
-![Game Lobby](./client/public/jackpot/8.png) 
 ---
 
 ## Tech Stack
@@ -334,5 +319,5 @@ Users are responsible for compliance with local blockchain and digital asset reg
 ---
 
 <p align="center">
-  🌌 Built for the Future of Web3 Gaming 🚀
+  🌌 Built for the Future of Web3 Project 🚀
 </p>
