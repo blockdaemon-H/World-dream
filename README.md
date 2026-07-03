@@ -1,23 +1,11 @@
-<p align="center">
-  <img src="./client/public/virtualpangea/98.png" alt="Banner" width="100%" />
-</p>
+#  🌐 Blockdaemon Ecosystem
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-v22-brightgreen" />
-  <img src="https://img.shields.io/badge/React-18-blue" />
-  <img src="https://img.shields.io/badge/Next.js-14-black" />
-  <img src="https://img.shields.io/badge/TypeScript-5-blue" />
-  <img src="https://img.shields.io/badge/Web3-Solana-purple" />
-  <img src="https://img.shields.io/badge/TailwindCSS-3-cyan" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
-</p>
 
----
+# 🚀 Overview
 
-# 🚀 OverView
+ Blockdaemon is one of the leading blockchain infrastructure providers for enterprises and financial institutions. Rather than building consumer crypto applications, it provides the infrastructure that powers banks, exchanges, custodians, fintech companies, and Web3 developers.
 
-We are building the first decentralized AI operating system (deAIOS), an infinitely scalable infrastructure composed of an L1 modular blockchain, verifiable AI, generative agents, and a unified service marketplace.
-The goal is to create an all-in-one hub where users can play, earn, and learn without switching between multiple platforms.
+Our solutions combine cutting-edge Web3 technologies with engaging gaming experiences, creating scalable platforms for poker, betting, tournaments, and player-driven economies. Through decentralized infrastructure, transparent game mechanics, and secure digital transactions, Blockdaemon is helping shape the future of online gaming by fostering fairness, player ownership, and sustainable community growth within the next generation of blockchain-powered entertainment ecosystems.
 
 ---
 
@@ -29,7 +17,7 @@ The goal is to create an all-in-one hub where users can play, earn, and learn wi
 - 🪙 NFT Asset Ownership
 - 🛒 NFT Marketplace
 - ⚡ Real-Time Multiplayer Sync
-- 💬 Live Chat & Social Features
+- 💬 Live Chat & Social Features 
 - 🏆 Global Leaderboards
 - 📊 Player Statistics
 - 🤖 AI-Powered Systems
@@ -39,14 +27,39 @@ The goal is to create an all-in-one hub where users can play, earn, and learn wi
 
 ---
 
-## Tech Stack
->✅ **Frontend** – React / Next.js / TailwindCSS              
->✅ **Blockchain** – Solidity / Hardhat / Ethers.js           
->✅ **Backend** – Node.js / TypeScript / PostgreSQL / Redis   
->✅ **Games** – Phaser.js / Unity / WebGL                     
->✅ **Sports Data** – Integrated via 3rd-party APIs           
->✅ **Enterprise Layer** – SettleMint BCDB middleware       
+# 🧠 Tech Stack
 
+## Frontend
+- React 18
+- Next.js 16
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Three.js
+- Babylon.js
+
+## Backend
+- Node.js
+- Express.js
+- Socket.IO
+- TypeScript
+
+## Blockchain
+- Polygon
+- Web3.js
+- Wallet Adapter
+
+## Database
+- MongoDB
+- Redis
+
+## DevOps
+- Docker
+- AWS
+- Vercel
+- GitHub Actions
+
+---
 
 # 📁 Project Structure
 
@@ -120,18 +133,42 @@ Before starting, install the following:
 
 ---
 
-# 🚀 Quick Start
+# ▶️ Run the Application
 
-## 1️⃣ Clone Repository
+## 1. Open the Project Folder
+
+Open a terminal and navigate to the project root directory:
 
 ```bash
-git clone repository
-cd directory
+cd path\to\Blockdaemon-Demo-v3
 ```
+
+Your terminal should look similar to:
+
+```text
+...\Blockdaemon-Demo-v3>
+```
+
+> **Note:** Run all commands below from the **project root folder** (`...\Blockdaemon-Demo-v3>`).
 
 ---
 
-## 2️⃣ Install Dependencies
+## 2. Check Your Node.js Version
+
+Verify your installed Node.js version:
+
+```bash
+node -v
+```
+
+- ✅ If your Node.js version is **v20.x–v25.x**, continue to the next step.
+- ⬆️ If your version is outside this range, update Node.js before proceeding.
+
+---
+
+## 3. Install Dependencies
+
+Install all required packages:
 
 ```bash
 npm install
@@ -140,49 +177,37 @@ npm install
 or
 
 ```bash
-yarn install
-```
-
-
-# ▶️ Run Development Servers
-
-## Start Backend
-
-```bash
-cd server
-npm run dev
+npm i
 ```
 
 ---
 
-## Start Frontend
+## 4. Start the Application
+
+Run the project:
 
 ```bash
-cd client
-npm run dev
+npm start
 ```
 
 ---
 
-# 🌐 Access Application
+# 🌐 Access the Application
 
 Frontend:
 
-```bash
+```text
 http://localhost:3000
 ```
 
 Backend API:
 
-```bash
+```text
 http://localhost:7777
 ```
-
----
-
 # 🔗 Wallet Integration
 
-supports:
+Blockdaemon supports:
 
 - MetaMask Wallet
 - Coinbase Wallet
@@ -230,7 +255,7 @@ Players can securely:
 
 # 🔐 Security
 
-This follows modern Web3 security practices:
+Blockdaemon follows modern Web3 security practices:
 
 - Wallet-based authentication
 - Encrypted sessions
@@ -293,7 +318,7 @@ MIT License
 
 # 👨‍💻 Developer
 
-Built with passion by the Our Team.
+Built with passion by the Blockdaemon Team.
 
 ---
 
@@ -319,5 +344,5 @@ Users are responsible for compliance with local blockchain and digital asset reg
 ---
 
 <p align="center">
-  🌌 Built for the Future of Web3 Project 🚀
+  🌌 Built for the Future of Web3 Gaming 🚀
 </p>
